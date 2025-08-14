@@ -1,0 +1,8 @@
+This is a placeholder for the PNG logo file.
+
+To create the actual PNG logo:
+1. Open the logo.svg file in a web browser or image editor
+2. Export/save it as PNG format
+3. Replace this file with the actual PNG image
+
+Alternatively, you can use the SVG logo directly in your HTML by changing the image source to "images/logo.svg" 
